@@ -1,0 +1,7 @@
+@import "https://www.apple.com/v/home/a/built/styles/main.built.css";
+
+body {
+    background-color: #eee;
+    color: #555;
+    padding: 1em;
+}
