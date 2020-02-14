@@ -1,6 +1,8 @@
 # ROI App
 
-Description
+Description:
+This App processes the ROI data for online advertising. For each ad-camppaign, given by a key, it computes the 'point of diminishing retuns'(podr), i.e. the points after which the revenue growth starts decreasing. 
+On the backend, for data processing, it automates the data smoothening using signal processing and then predicts the podr along with the estiamte of probability distribution of the podr values across campagins. 
 
 ## Run this app
 
